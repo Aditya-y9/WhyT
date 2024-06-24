@@ -1,3 +1,15 @@
+## 📱Screenshots
+
+
+<p align="center">
+<img src="https://github.com/Aditya-y9/WhyT/assets/122613756/ae8f1a21-4918-4719-9cb2-adc4aab92bd1" alt="animated" />
+</p>
+
+![image](https://github.com/Aditya-y9/WhyT/assets/122613756/2bc59d1c-799d-4836-9127-ee3b97a32197)
+
+
+
+
 <h1 align="center">
   <a href="https://github.com/CommunityOfCoders/Inheritance-2023">
     <img src="https://github.com/nishitkekane/Inheritance-2023/blob/372b542936dd85f987ad292eacf6fe33ee19fb2d/Untitled.png" alt="CoC Inheritance 2022" width="500" height="166">
@@ -248,14 +260,7 @@ go to http://localhost:3000/ to see the project live.
   Special Thanks to [Pranav Janjani](https://github.com/pranavjanjani):janjanipranav@gmail.com for helping and supporting ML team throughout the project.
 
   
-## 📱Screenshots
 
-
-<p align="center">
-<img src="https://github.com/Aditya-y9/WhyT/assets/122613756/ae8f1a21-4918-4719-9cb2-adc4aab92bd1" alt="animated" />
-</p>
-
-![image](https://github.com/Aditya-y9/WhyT/assets/122613756/2bc59d1c-799d-4836-9127-ee3b97a32197)
 
 
 ![image](https://github.com/Aditya-y9/WhyT/assets/122613756/9efa9df6-b987-4bb9-8501-1fd9c223cc3b)
